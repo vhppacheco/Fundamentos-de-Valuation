@@ -1,2 +1,2 @@
 # Fundamentos-de-Valuation
-Repositório com foco do estudo de Fundamentos de Valuation
+Repositório com foco no estudo de Fundamentos de Valuation
